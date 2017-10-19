@@ -34,7 +34,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What rizz...?
+  heading: What rizz...??
   description: |
     Some random text!!
 main:
