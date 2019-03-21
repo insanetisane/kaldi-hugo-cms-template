@@ -93,3 +93,8 @@ pricing:
       price: '?'
 ---
 
+# This is a test
+
+this is how we test things
+
+> cool!
